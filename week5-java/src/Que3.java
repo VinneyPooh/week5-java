@@ -9,7 +9,7 @@ public class Que3 {
         colours.add("Blue");
         colours.add("Black");
         colours.add("White");
-        colours.add("Yellow");
+        colours.add("Brown");
         for (String colourName:colours) {
             System.out.println(colourName);
 
